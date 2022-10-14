@@ -45,7 +45,7 @@ int main()
             break;
     
             case 3:
-                whLoop++;   //For Breaking the while loop.
+                whLoop++;   //For   Breaking the while loop.
     
             break;    
         }       
